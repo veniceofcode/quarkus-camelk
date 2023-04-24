@@ -1,5 +1,4 @@
-# Quarkus-CamelK
-# To Do 
+# Camel-K/Quarkus - Use Cases
 
 * Develop integration message processors (ROUTES in camel or micro services or serverless services) to integrate and fetch data from backbends systems(Databases –oracle, Teradata , REST endpoints, TCP Endpoints, LDAP endpoints, MQ Endpoints and File endpoints)
 
